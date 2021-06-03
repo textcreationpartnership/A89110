@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the Princes court in Holland, to divers citizens of London, communicating his design and resolution against the Parliament of England, and the Army; and His message to the Emperour of Germany, the King of Spain, and the Queen of Swethland, sent by the Marquesse of Newcastle, and the Earl of Brainford. With the promise of the King of Denmark, and the Duke of Laurain; and severall proposals presented by Mr. Murrey, for a speedy randezvouz and conjunction in Scotland, and the Lord Hoptons declaration thereupon. Also, the resolution of the Parliament of England, touching the Prince; and a new declaration from the estates of Scotland. Die 4. Aprill, 1649. These papers are perused and examined, and appointed to be printed, and published without let or molestation. Imprimatur, Theo: Jennings.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89110</idno><idno type="EEBO-CITATION">99864957</idno>
+  <idno type="VID">117190</idno>
+  <idno type="EEBO-PROQUEST">2240912207</idno>
+  
+            <idno type="STC">Wing M1908</idno>
+            <idno type="STC">Thomason E549_18</idno>
+            <idno type="STC">ESTC R205637</idno>
+            <idno type="PROQUEST">99864957</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864957e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117190)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E549[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the Princes court in Holland, to divers citizens of London, communicating his design and resolution against the Parliament of England, and the Army; and His message to the Emperour of Germany, the King of Spain, and the Queen of Swethland, sent by the Marquesse of Newcastle, and the Earl of Brainford. With the promise of the King of Denmark, and the Duke of Laurain; and severall proposals presented by Mr. Murrey, for a speedy randezvouz and conjunction in Scotland, and the Lord Hoptons declaration thereupon. Also, the resolution of the Parliament of England, touching the Prince; and a new declaration from the estates of Scotland. Die 4. Aprill, 1649. These papers are perused and examined, and appointed to be printed, and published without let or molestation. Imprimatur, Theo: Jennings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Laurenson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Aprill 5. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117190:1"/>
+            <p> A MESSAGE SENT From the Princes Court in <hi>Holland,</hi> to divers Citizens OF LONDON, COMMUNICATING His Design and Resolution against the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Army; And His Message to the Emperour of <hi>Germany,</hi> the King of <hi>Spain,</hi> and the Queen of <hi>Swethland,</hi> sent by the Marquesse of <hi>Newca<g ref="char:EOLhyphen"/>stle,</hi> and the Earl of <hi>Brainford.</hi>
+            </p>
+            <p>WITH The Promise of the King of <hi>Denmark,</hi> and the Duke of <hi>Lau<g ref="char:EOLhyphen"/>rain;</hi> and severall Proposals presented by Mr. <hi>Murrey,</hi> for a speedy Randezvouz and conjunction in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and the Lord <hi>Hoptons</hi> Declaration thereupon.</p>
+            <p>ALSO, The Resolution of the Parliament of <hi>England,</hi> touching the Prince; and a new Declaration from the Estates of SCOTLAND.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die</hi> 4. <hi>Aprill,</hi> 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>THese Papers are perused and examined, and appointed to be printed, and published without let or molestation.</hi>
+                        </p>
+                        <p>Imprimatur. </p>
+                        <closer>
+                           <signed>THEO: JENNINGS.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Laurenson, Aprill</hi> 5. 1649.</p>
+            <pb facs="tcp:117190:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:117190:2"/>
+            <head>A MESSAGE From the HAGVE To the Citizens of <hi>London.</hi>
+            </head>
+            <head type="sub">Concerning the proceedings of the Prince of <hi>Wales,</hi> and a Declaration of His Resolution, Intention and Designs, touching the Parliament of <hi>England,</hi> and the Army.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honoured,</salute>
+                  </opener>
+                  <p>THe Ambassadours from <hi>Swethland, Spaine</hi> and <hi>Denmark</hi> have received audience at the young King of <hi>Brittains</hi> Court (for so he is here cal<g ref="char:EOLhyphen"/>led) and have received a favourable construction and congratulation from his Majesty, their Embassie from their severall Masters being wel rescented by the court
+<pb n="2" facs="tcp:117190:3"/> Favourites; they promise him great ayd and assist<g ref="char:EOLhyphen"/>ance, and say they will endeavour his restauration to his just Rights and Dignities; <hi>but its probable their De<g ref="char:EOLhyphen"/>sign may be frustrated, before they can accomplish or fa<g ref="char:EOLhyphen"/>ciliate their work for</hi> England. For many here conceive it irrecoverable, unles it be by the power of the Sword, and for that end, the Prince hath sent the Earl of <hi>Bran<g ref="char:EOLhyphen"/>ford</hi> as Embassador to Swethland, to negotiate with the Queen for 10000 Horse and Foot, to be designed against England. The E. of Newcastle, and another Lord have also received Instructions from him, and are dis<g ref="char:EOLhyphen"/>patched to Germany and Spain, with a message from his Highnesse, to the Emperour and the King, to nego<g ref="char:EOLhyphen"/>tiate likewise with those high and mighty Potentates, for other relief and Supplies, <hi>God put you in a posture and readinesse, to attend the motion of all their Designes,</hi> Mr. <hi>William Murrey</hi> is come hither out of Scotland, &amp; hath presented several propositions to the Prince, <hi>viz.</hi> 1. That his Highnesse would be pleased to fix and set down his resolution for that Kingdom. 2 That Hee would be pleased to sign the Covenant, 3 That Hee would unite and joyn with the Marquesse of <hi>Argyle;</hi> by which meanes he may become the head of the Co<g ref="char:EOLhyphen"/>venanters, and in a short time have a strong party of his own, and be able to fling off the Covenanters again at pleasure. Touching which particulars, many rationall arguments arose at the Councel table, and after some dispute in reference to his going into Scotland, the L. <hi>Hopton</hi> (in the presence of the Prince) declared a great dislike thereof, saying, <hi>That they was a perfidious &amp; per<g ref="char:EOLhyphen"/>jur'd people, and that if he cast himself vpon them, they would betray his person, and deliver him vp to the mercy of men. Montrosse</hi> also declares against his going thither
+<pb n="3" facs="tcp:117190:3"/> and saith, That the Sword is more honorable, and that he doubts not but to see all disloyall Scots and Eng<g ref="char:EOLhyphen"/>lish fall before him, (standing in a Magesticall posture and laying his hand upon his Sword) But a Gentleman standing by replyed, <hi>That an English Axe might prove as fatall, as a glittering Scottish Sword;</hi> upon which speeches the Gentleman was apprehended, and com<g ref="char:EOLhyphen"/>mitted to safe custody. The Duke of Laurain hath sent a message to the Prince, touching the Articles of Mar<g ref="char:EOLhyphen"/>riage between his Highnesse, and the said Dukes daugh<g ref="char:EOLhyphen"/>ter; wherein he proffers 200000. l. in money, and 8000 horse and foot to maintain at his own charge for eight months, but nothing as yet concluded.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Hague</hi>
+                        <date>1 <hi>Aprill,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>These particulars were inclosed in a Letter from the Hague, and directed to divers Citizens of</hi> London.</p>
+            <p>On the 3. of this instant, about two of the clocke in the afternoon, the common-councell of the city of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> (according to an Order of Parliam.) assembled at Guild-hall, <hi>London,</hi> where was held a common Hal for the election of a new Lord Major, for the remainder of this present year, and upon debate thereof great dis<g ref="char:EOLhyphen"/>pute arose amongst the grave Senates of this renowned Metropolis; some voting down one Alderman, others crying up another: divers being in nomination, <hi>viz.</hi> Al<g ref="char:EOLhyphen"/>derman <hi>Penington,</hi> Alderman <hi>Woollaston,</hi> Alderm. <hi>Folke,</hi> and others; but at last they came to this result. That they would desist from further dispute therin, &amp; close up the period of their consultations, with this Resolu<g ref="char:EOLhyphen"/>tion, That Alderman <hi>Andrewes</hi> should be elected Lord Major of the City of <hi>London,</hi> for the remainder of this present year, which was accordingly assented to: the late Lord Major <hi>Reynaldson</hi> being degraded of his Mayoralty, and committed prisoner to the Tower for these ensuing Reasons following.</p>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:117190:4"/>
+            <head>
+               <hi>A Declaration of the late Lord Mayor of the City of</hi> London.</head>
+            <p>THe Lord Major of the City of <hi>London,</hi> being summoned by the Parl. of <hi>England</hi> to attend that honorable House, for his contempt, in disobeying the Orders of Parliament, and neglecting and refusing to proclaim the Act for abolishing the kingly office in England and Ireland, within the said City; in order whereunto, his Lordship was brought to the Barre of the House of Commons; and after some Queries pro<g ref="char:EOLhyphen"/>posed, concerning his non-performance thereof, He re<g ref="char:EOLhyphen"/>plyed, <hi>That according to the Oath of Allegeance which he had taken, he could not (in Conscience) proclaim the said Act for the abolishing of the Kingly Office, and Govern<g ref="char:EOLhyphen"/>ment of Kingship,</hi> declaring, <hi>That the businesse was onely proper for the Sheriff of the City.</hi> And being remanded from the Bar, the House voted as followeth:</p>
+            <p>
+               <hi>Resolved by the Commons of</hi> England <hi>assembled in Parl.</hi> That the Lord Major of the City of <hi>London,</hi> for his contempt in disobeying the Orders of Parl. bee fined 2000. l. <hi>Resolved, &amp;c.</hi> That he be committed prisoner to the Towet of <hi>London</hi> for two months, and be degra<g ref="char:EOLhyphen"/>ded of Mayralty. <hi>Resolved, &amp;c.</hi> That an Order be forth<g ref="char:EOLhyphen"/>with drawn up, and immediatly sent to the Common<g ref="char:EOLhyphen"/>councell of the said city, requiring and impowring them to elect a new Major with all speed; and in or<g ref="char:EOLhyphen"/>der thereunto, the severall companies within the said city are required to meet (this day) for the election thereof.</p>
+         </div>
+         <div type="delcaration">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>
+                           <hi>A new Declaration from the parl. of</hi> Scotland.</head>
+                        <opener>
+                           <salute>Sir,</salute>
+                        </opener>
+                        <p>The Committee of Estates conveened at Eden<g ref="char:EOLhyphen"/>burgh, begin to wave and deviate from their former Resolutions for the investing of <hi>Charles</hi> the second, &amp; are now resolved to assume the power of a free Sta<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e,
+<pb n="5" facs="tcp:117190:4"/> their proposals to their young <hi>King</hi> taking no effect; for upon the representing of the same by their commis<g ref="char:EOLunhyphen"/>sioners, His Highnesse was pleased to return this an<g ref="char:EOLhyphen"/>swer, <hi>viz.</hi> That he was not (as yet) satisfied in consci<g ref="char:EOLhyphen"/>ence touching the lawfulnesse of the covenant, &amp; their Uniformity of presbytery, and therfore could not give them a positive answer, touching his present signing &amp; entring into covenant, desiring further respite of time to consult thereon. 2 That he gives the parl. of Scot<g ref="char:EOLhyphen"/>land many thanks for their Offers and Loyalty to assist and protect him, and for their fidelity and cordial affe<g ref="char:EOLhyphen"/>ctions towards the preservation of Soveraignty in ac<g ref="char:EOLhyphen"/>knowledging him their true and lawfull King by un<g ref="char:EOLhyphen"/>doubtfull Succession; but withall desires, that they will take the advice of him and his Councel in reference to Religion, Crown and kingdom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>; to the end, that both he and they, may (with stability of mind) six their Reso<g ref="char:EOLhyphen"/>lutions upon a Rock of unmoveable principles. The Estates conveened having received this message, voted it unsatisfactory, and that 10000 Horse and Foo<g ref="char:EOLhyphen"/>should be forthwith put into a posture, for a conjunt<g ref="char:EOLunhyphen"/>ction with England, offensive or defensive against all opposition to either Nations, from abroad or at home and have nominated and made choise of commissioners to be expedited to the parliament of England with a message, for the faciliating of this work, and intimating unto them the transaction of affairs in this Nation. For so soon as they understood their young Kings resolu<g ref="char:EOLhyphen"/>tion, that he was determined for Ireland, they begin u<g ref="char:EOLhyphen"/>niversally to decline their first engagement▪ and have caused an Edict or Act to be proclaimed at the Mar<g ref="char:EOLhyphen"/>ket Crosse, exhibiting all persons whatsoever from a<g ref="char:EOLhyphen"/>cting, abetting, or contriving any thing tending to the
+<pb facs="tcp:117190:5"/> inthroning of <hi>Charles Stuart</hi> the second, untill such time that he shall give full satisfaction in matters of Religion, and other publike affairs, tending to the salty and preservation of this <hi>Kirk</hi> and <hi>Kingdom;</hi> insomuch, that the Royal parsy are much discontented therear, &amp; upon the proclaiming thereof, assembled together, fell upon the Bayliffs, and other magistrates of the city, killed and wounded many, crying out, <hi>God blesse King</hi> Charles <hi>the second.</hi> But by the speedy coming in of the trayned Bands, the adverse party were routed, and ma<g ref="char:EOLhyphen"/>ny of them apprehended, and committed to safe custo<g ref="char:EOLhyphen"/>dy. But from the North we have received a strong al<g ref="char:EOLhyphen"/>larum, which is, that 5000 Gourdons have Bodied, &amp; have surrounded Lieu. Gen. <hi>Lefley,</hi> and that 2000 more are come in to their assistance, commanded by the L. <hi>Oglesby,</hi> they declare for <hi>Charles</hi> the second. The Lieu. Gen. is in very great straights, but the Committee of Estates are sending 6000 Horse and Foot to relieve him; you will hear of sudden action.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Edenburgh</hi>
+                              <date>29. <hi>Martii,</hi> 1649.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Parliament of England taking into their serious consideration, the manifold calamities of this bleeding Nation, occasioned by the great plottings and designes of the adverse party abroad, and the domestique ene<g ref="char:EOLhyphen"/>mies at home, do declare, That <hi>Charles Stuart,</hi> and all o<g ref="char:EOLhyphen"/>thers who have been acting in the plotting, designing, or assisting the Rebellion in <hi>Ireland,</hi> shall be banished as enemies and traytors to the Common-wealth and shal dye without mercy, where ever they shall be found within the limits of this Nation.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
